@@ -1,6 +1,13 @@
 # Asteroid Assault MonoGame CSharp
 
+Please visit: http://www.monogame.net/2017/03/01/monogame-3-6/
+
+Download and install MonoGame for Visual Studio.
+
+Download the complete project with solution and placement art, build and enjoy!
+
 NOTES:
+- This is a 2D top-down space shooter.
 - The best feature here is the implementation of the collision detection and response (elastic collisions with rebound).
 Circle and Square collisions are available and can be assigned to game objects such as the player, the enemy ships and the asteroids.
 - Implementation of a simple particle system to create random explosions.
